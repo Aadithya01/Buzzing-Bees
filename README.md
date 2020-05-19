@@ -19,6 +19,7 @@ We collected data from various sources including USDA, Bee informed, NOAA, USGS.
 
 # Result
 Myth : 
+
 1)Bee loss is unsustainable, and bees are endangered
 
 2)Bee loss is having a huge impact on agriculture production
@@ -28,6 +29,7 @@ Myth :
 4)Neonic pesticides are causing the bees to die
 
 Truth:
+
 1)Bee loss increased, but bee population hit a 22-year high
 
 2)Bee loss is increasing the cost of production in agriculture 
