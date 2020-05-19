@@ -17,7 +17,7 @@ We collected data from various sources including USDA, Bee informed, NOAA, USGS.
 5) Further, studied the effect of this on honey production and prices
 6) Studied effect on agricultural production
 
-# Result
+# Findings
 Myth : 
 
 1)Bee loss is unsustainable, and bees are endangered
